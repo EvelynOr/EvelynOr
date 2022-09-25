@@ -17,4 +17,4 @@ formulación de indicadores
 
 🧑‍🤝‍🧑👭 Gestión de recursos humanos basado en competencias.
 
-Conocimiento de:  ✨ PowerBI   |  SQL Server  |   Minitab      🐍 Python  
+Conocimiento en:  ✨ PowerBI   |  SQL Server  |   Minitab      🐍 Python  
