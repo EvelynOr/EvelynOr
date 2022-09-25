@@ -5,7 +5,9 @@ Economista
 
 
 📉  Análisis micro y macro
+       
        análisis de datos-estadísticas      
+       
        formulación de indicadores
 
 📏 Coordinación y asistencia de proyectos
