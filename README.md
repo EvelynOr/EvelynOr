@@ -6,11 +6,11 @@ Economista
 
 📉  Análisis micro y macro
 
-    análisis e interpretacion de datos-estadísticas 
-    
-    formulación de indicadores
-       
+análisis e interpretacion de datos-estadísticas 
 
+formulación de indicadores
+
+   
 📏 Coordinación y asistencia de proyectos
 
 📚 Capacitación y formación
