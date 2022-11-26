@@ -5,7 +5,6 @@ Economista
 
 
 📉  Análisis micro y macro
-
     análisis de datos 
     interpretacion de estadísticas
     formulación de indicadores
