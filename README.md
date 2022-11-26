@@ -12,7 +12,7 @@ Economista
 📏 Coordinación y asistencia de proyectos
 
 📚  Capacitación y formación: 👩‍🏫 
-    Profesora de pregrado y postgrado
+    Maestra en pregrado y postgrado
 
 🧑‍🤝‍🧑 Gestión de recursos humanos basado en competencias
 
