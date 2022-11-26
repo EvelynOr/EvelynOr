@@ -5,16 +5,17 @@ Economista
 
 
 📉  Análisis micro y macro
+    + análisis de datos 
+    + interpretacion de estadísticas 
+    + formulación de indicadores
 
-análisis e interpretacion de datos-estadísticas 
-
-formulación de indicadores
-
-   
 📏 Coordinación y asistencia de proyectos
 
-📚 Capacitación y formación
+📚  Capacitación y formación
+    Profesora de pregrado y postgrado
 
-🧑‍🤝‍🧑👭 Gestión de recursos humanos basado en competencias.
+🧑‍🤝‍🧑 Gestión de recursos humanos basado en competencias.
 
-Conocimiento en:  ✨ PowerBI   |  SQL Server  |   Minitab      🐍 Python  
+🛠️ Competencias laborales 
+   Generación de conocimiento = investigación + creatividad + atención a detalles + comunicación escrita y verbal  
+   Conocimiento de:  ✨ PowerBI   |  SQL Server  |   Minitab      🐍 Python  
