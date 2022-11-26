@@ -1,7 +1,6 @@
 # Evelyn ORTIZ
+### Economista
 
-
-Economista 
 
 
 📉  Análisis micro y macro: 
