@@ -21,5 +21,7 @@
 
    Generación de conocimiento = investigación + creatividad + atención a detalles + curiosidad + comunicación escrita y verbal  
    Conocimiento de:  ✨ PowerBI   |  SQL Server  |   Minitab      🐍 Python  
+   
+ # Portafolio: https://github.com/EvelynOr/4.Portafolio
 
 
