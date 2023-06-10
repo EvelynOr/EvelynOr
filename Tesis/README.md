@@ -42,7 +42,7 @@ Para comprender el comportamiento de los ciudadanos sobre el tema de los impuest
 
 #### 2. Campo de actitud
 
-#### 2. Campo de Campo de información
+#### 2. Campo de información
 
 
 
