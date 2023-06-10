@@ -1,4 +1,5 @@
 # REPRESENTACIONES SOCIALES DE LOS IMPUESTOS EN GUATEMALA
+DOCTORADO EN CIENCIAS DE LA INVESTIGACIÓN
 
 La teoría de la cultura tributaria pretende reducir la brecha entre la teoría económica y la realidad cultural.
 
