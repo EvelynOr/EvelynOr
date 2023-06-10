@@ -51,3 +51,9 @@ Para comprender el comportamiento de los ciudadanos sobre el tema de los impuest
 La figura muestra los campos de las representaciones sociales que se encontraron en el estudio realizado.
 
 ![image](https://user-images.githubusercontent.com/82233779/212377340-e4cdf924-0650-4bcc-a06b-59ceee828b6b.png)
+
+
+# Conslusiones
+
+
+# Recomendaciones 
