@@ -28,6 +28,7 @@ La cultura puede entenderse de forma sencilla como los significados o identidade
 
 Para comprender el comportamiento de los ciudadanos sobre el tema de los impuestos es necesario estudiar las percepciones y/o representaciones de la relación Estado-sociedad. En torno a este doble vínculo se forma un cuerpo de conceptos e ideas que adquieren una forma particular según el contexto y la historia de cada sociedad. En este contexto la cultura tributaria se entiende como “el conjunto de imágenes, valores y actitudes de los individuos sobre el tema de los impuestos y el conjunto de prácticas desarrolladas a partir de estas representaciones” (Rivera y Sojo, 2002, p. 548). Con base en este marco de interpretaciones que hacen los ciudadanos, se sustentan sus relaciones con las políticas oficiales y su participación en el mundo político. El cumplimiento de las obligaciones tributarias es un acto cultural de contenido económico (Rivera y Sojo, 2002).
 
+# Resultados 
 
 
 
