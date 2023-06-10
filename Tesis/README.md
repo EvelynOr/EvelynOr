@@ -32,8 +32,16 @@ Para comprender el comportamiento de los ciudadanos sobre el tema de los impuest
 
 # Resultados 
 
+### 1. Contexto social o las condiciones de producción de las representaciones sociales 
 
 
+### 2. Dimensiones de la representacion social de los impuetos
+
+#### 2.1 Campo de representación
+
+#### 2. Campo de actitud
+
+#### 2. Campo de Campo de información
 
 
 
