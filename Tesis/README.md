@@ -14,7 +14,7 @@ La teoría surge en 1961 en París, con la publicación de la tesis doctoral de 
 
 Las representaciones sociales son un conjunto de creencias e imágenes, socialmente elaborado y compartido, por medio del cual se construirá de manera práctica la realidad social del individuo y del grupo, y les permitirá fijar su posición en relación con diferentes situaciones.
 
-El contenido de las representaciones sociales se construye en un contexto social determinado y alrededor de tres dimensiones, el campo de representación, la actitud y la información. Esta información permite al sujeto asumir una postura sobre el objeto representado, la que se incorpora a su estructura cognitiva (Moscovici, 1979). A continuación se detallan: 
+El contenido de las representaciones sociales se construye en un contexto social determinado (económico, político, institucional e históricos) y alrededor de tres dimensiones, el campo de representación, la actitud y la información. Esta información permite al sujeto asumir una postura sobre el objeto representado, la que se incorpora a su estructura cognitiva (Moscovici, 1979). A continuación se detallan: 
 
 1. El campo de representación se define como el conjunto de imágenes y significados coherentes, “capaces de dar vida al objeto representado”, que encierra la esencia del concepto (Bautista y López 2015).  
 
