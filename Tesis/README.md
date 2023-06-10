@@ -5,8 +5,7 @@ Para analizar la cultura tributaria, como uno de los elementos propuestos dentro
 
 Este enfoque aporta conceptos que permiten obtener la imagen que tienen las personas de los impuestos, a través de un análisis del proceso de formación de esas imágenes, la estructura mental que tienen actualmente, la actitud frente a los impuestos y el conocimiento de la normativa tributaria actual.
 
-
-### Objetivo General
+Objetivo General
 Realizar una primera medición de las representaciones sociales que la ciudadanía tiene de los impuestos.
 
 ### Teoría de las Representaciones Sociales
