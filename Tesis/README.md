@@ -57,3 +57,9 @@ La figura muestra los campos de las representaciones sociales que se encontraron
 
 
 # Recomendaciones 
+
+1. Realizar estudios regionalizados, o en el área de influencia de donde se encuentran las oficinas tributarias de la SAT o a nivel nacional, esto considerando la diversidad lingüística.
+
+2. Definir perfiles tributarios de los contribuyentes activos, para conocer los que actualmente sostienen la recaudación. A la fecha no se cuenta con una línea base que haya orientado las actuaciones de la SAT en este ámbito.
+
+3. En la gestión de la Administración Tributaria se sugiere complementar los enfoques, esto significa que se deben reconsiderar los aspectos legales, el modelo de la economía del crimen utilizado en la actualidad y los elementos culturales del país, incluso la cultura por región.
