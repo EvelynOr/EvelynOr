@@ -14,13 +14,15 @@ La teoría surge en 1961 en París, con la publicación de la tesis doctoral de 
 
 Las representaciones sociales son un conjunto de creencias e imágenes, socialmente elaborado y compartido, por medio del cual se construirá de manera práctica la realidad social del individuo y del grupo, y les permitirá fijar su posición en relación con diferentes situaciones.
 
-El contenido de las representaciones sociales se construye alrededor de tres dimensiones, el campo de representación, la actitud y la información. Esta información permite al sujeto asumir una postura sobre el objeto representado, la que se incorpora a su estructura cognitiva (Moscovici, 1979). A continuación se detallan: 
+El contenido de las representaciones sociales se construye en un contexto social determinado y alrededor de tres dimensiones, el campo de representación, la actitud y la información. Esta información permite al sujeto asumir una postura sobre el objeto representado, la que se incorpora a su estructura cognitiva (Moscovici, 1979). A continuación se detallan: 
 
 1. El campo de representación se define como el conjunto de imágenes y significados coherentes, “capaces de dar vida al objeto representado”, que encierra la esencia del concepto (Bautista y López 2015).  
 
 2. El campo de actitud es la dimensión afectiva de la representación. Se trata de las reacciones emocionales que orientan el comportamiento (positivo o negativo) o disposición más o menos favorable que tiene una persona respecto al objeto de representación, como resultado de la información que se comparte con el grupo y los significados atribuidos al objeto de represetnación social. Involucra a las personas emocionalmente con diferentes grados de intensidad. 
 
 3. La información, es el conjunto de conocimientos que los individuos tienen del objeto de representación. Su calidad, cantidad, tipo y grado de precisión depende de la pertenencia al grupo, la inserción social, la distancia o cercanía de los grupos y las prácticas sociales respecto del objeto de representación (Perera, 2003). Se puede obtener a través de la prensa, las revistas, los libros de divulgación científica y en la comunicación cotidiana mediante la cual se accede a conocimientos e ideas sobre diferentes situaciones de la realidad (Moscovici, 1979).
+
+![image](https://github.com/EvelynOr/EvelynOr/assets/82233779/2221d46a-85e5-448e-b25f-2b8f93aefd1c)
 
 
 ### Representaciones sociales y cultura tributaria
