@@ -22,7 +22,7 @@ El análisis de la cultura tributaria “muestra cómo los individuos incorporan
 
 .=.=.=.=.=.=.=.=
 
-La teoría de la cultura tributaria pretende reducir la brecha entre la teoría económica y la realidad cultural.
+
 
 En la actualidad, este aspecto cultural se considera que puede aportar a la explicación del incumplimiento tributario y por tanto a la recaudación tributaria. El análisis se realizó desde la psicología social, tomando como base la teoría de las representaciones sociales y conceptos de política fiscal. 
 
