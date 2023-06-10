@@ -1,13 +1,10 @@
 # REPRESENTACIONES SOCIALES DE LOS IMPUESTOS EN GUATEMALA
 DOCTORADO EN CIENCIAS DE LA INVESTIGACIÓN
 
-## Objetivos
-#### General
+## Objetivo General
 Realizar una primera medición de las representaciones sociales que la ciudadanía tiene de los impuestos.
 
-#### Específicos
-1. Presentar una primera caracterización de las condiciones de producción en el que la ciudadanía ha formado las representaciones sociales de los impuestos.
-2. Describir cada uno de los campos que conforman las representaciones sociales de los impuestos.
+
 
 La teoría de la cultura tributaria pretende reducir la brecha entre la teoría económica y la realidad cultural.
 
