@@ -38,7 +38,7 @@ Para comprender el comportamiento de los ciudadanos sobre el tema de los impuest
 ### 1. Contexto social o condiciones de producción de las representaciones sociales 
 La construcción de una RS está determinada por factores que se comparten en un espacio, entre estos se encuentran los económicos, políticos, institucionales, sociales, históricos y culturales. Estos factores configuran el contexto social o las condiciones de producción de las RS (Sáenz et al., 2015). Para su análisis, estas condiciones se dividen en aspectos macro y aspectos micro. Los aspectos macro cubren los factores del contexto social en el que se construyeron las RS. En tanto que los aspectos micro corresponden a las características económicas, sociales, demográficas y aspectos institucionales y culturales del entorno cercano de los sujetos encuestados.
 
-#### Aspectos macro o contexto social
+#### Aspectos macro 
 Estas representaciones se han generado en una sociedad que desde su concepción como Estado se ha caracterizado por contradicciones, falta de una identidad colectiva, insustancialidad en el ámbito de la ciudadanía y unión en el ámbito de la religiosidad. Pese a ser, en aspectos económico, la mayor economía del área centroamericana y de mejor desempeño en América Latina, en aspectos políticos e institucionales es calificada como un país con una institucionalidad débil, esto se puede comprobar con la presencia de corrupción, evasión, altos niveles de pobreza, limitados recursos fiscales, además de la confrontación entre los gobiernos y los empresarios, como lo evidencian los estudios realizados.
 
 #### Aspectos micro  
