@@ -22,6 +22,8 @@ El contenido de las representaciones sociales se construye en un contexto social
 
 3. El campo de la información, es el conjunto de conocimientos que los individuos tienen del objeto de representación. Su calidad, cantidad, tipo y grado de precisión depende de la pertenencia al grupo, la inserción social, la distancia o cercanía de los grupos y las prácticas sociales respecto del objeto de representación (Perera, 2003). Se puede obtener a través de la prensa, las revistas, los libros de divulgación científica y en la comunicación cotidiana mediante la cual se accede a conocimientos e ideas sobre diferentes situaciones de la realidad (Moscovici, 1979).
 
+La figura muestra elementos de las condiciones de producción y los campos que que conforman las representaciones sociales
+
 ![image](https://github.com/EvelynOr/EvelynOr/assets/82233779/2221d46a-85e5-448e-b25f-2b8f93aefd1c)
 
 
