@@ -34,6 +34,14 @@ La cultura puede entenderse de forma sencilla como los significados o identidade
 
 Para comprender el comportamiento de los ciudadanos sobre el tema de los impuestos es necesario estudiar las percepciones y/o representaciones de la relación Estado-sociedad. En torno a este doble vínculo se forma un cuerpo de conceptos e ideas que adquieren una forma particular según el contexto y la historia de cada sociedad. En este contexto la cultura tributaria se entiende como “el conjunto de imágenes, valores y actitudes de los individuos sobre el tema de los impuestos y el conjunto de prácticas desarrolladas a partir de estas representaciones” (Rivera y Sojo, 2002, p. 548). Con base en este marco de interpretaciones que hacen los ciudadanos, se sustentan sus relaciones con las políticas oficiales y su participación en el mundo político. El cumplimiento de las obligaciones tributarias es un acto cultural de contenido económico (Rivera y Sojo, 2002).
 
+# Metodología 🧵
+#### Diseño metodológico
+El alcance de la investigación fue exploratorio y descriptivo, porque buscó identificar las representaciones sociales que las personas entrevistadas han construido de los impuestos y describir cada uno de los campos de dicha representación. El tipo de estudio fue cualitativo, no experimental, de campo y de corte transversal. Desde la TRS se seleccionaron dos abordajes metodológicos que se complementan y permitieron un acercamiento más profundo y multidimensional con el objeto de estudio, la propuesta de Moscovici (1979) y la propuesta de Abric (Moliner y Abric 2015). De acuerdo con las circunstancias en las que se llevó a cabo la investigación, se determinó que la recolección de la información se realizara mediante la técnica asociativa y la interrogativa.
+
+#### Participantes
+La participación fue voluntaria y se realizó en lugares públicos en la ciudad de Guatemala. El universo de estudio de ubicó en un espacio geográfico, que se delimitó en una circunferencia con un radio de 10 kilómetros cuyo centro se ubicó en el Palacio Nacional de la Cultura, en el Centro Histórico. Las personas fueron abordadas en la vía pública ya que se pretendía obtener la visión de la población en general, dado el carácter exploratorio del estudio.
+El muestreo fue por conveniencia basado en criterios. Este tipo de muestreo es útil cuando se pretende adquirir un conocimiento inicial de un problema de estudio. Su utilidad ha sido demostrada en la caracterización de las formas sociales, porque no busca cuantificar, busca entender y describir el fenómeno. La muestra fue de 144 personas (Wachelke, Wolter, y Rodrigues, 2016).
+
 # Resultados 🚶‍♀️
 
 
