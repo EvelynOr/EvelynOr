@@ -42,6 +42,9 @@ El alcance de la investigación fue exploratorio y descriptivo, porque buscó id
 La participación fue voluntaria y se realizó en lugares públicos en la ciudad de Guatemala. El universo de estudio de ubicó en un espacio geográfico, que se delimitó en una circunferencia con un radio de 10 kilómetros cuyo centro se ubicó en el Palacio Nacional de la Cultura, en el Centro Histórico. Las personas fueron abordadas en la vía pública ya que se pretendía obtener la visión de la población en general, dado el carácter exploratorio del estudio.
 El muestreo fue por conveniencia basado en criterios. Este tipo de muestreo es útil cuando se pretende adquirir un conocimiento inicial de un problema de estudio. Su utilidad ha sido demostrada en la caracterización de las formas sociales, porque no busca cuantificar, busca entender y describir el fenómeno. La muestra fue de 144 personas (Wachelke, Wolter, y Rodrigues, 2016).
 
+#### Instrumento
+El instrumento se realizó con base en los ejes de análisis o constructos de orden teórico metodológico que permitieron entender el problema de investigación. Estos sirvieron como soporte para indagar el objeto de estudio y como vínculo entre el marco de referencia y la evidencia empírica. Quedaron definidos por dos ejes y cuatro campos. El primer eje: las condiciones de producción de las RS (aspectos de orden social, económico, institucional e histórico) y el segundo eje compuesto por los tres campos que componen las representaciones sociales: el campo de representación, el campo de actitud y el campo de información. 
+
 # Resultados 🚶‍♀️
 
 
