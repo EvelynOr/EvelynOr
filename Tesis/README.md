@@ -7,6 +7,7 @@
 
 [Conclusiones](https://github.com/EvelynOr/EvelynOr/tree/main/Tesis/Conclusiones)
 
+
 # Resumen
 
 ### REPRESENTACIONES SOCIALES DE LOS IMPUESTOS EN GUATEMALA
