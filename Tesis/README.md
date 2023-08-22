@@ -1,6 +1,8 @@
-DOCTORADO EN CIENCIAS DE LA INVESTIGACIÓN (2021)
+# Resumen 
 
-# REPRESENTACIONES SOCIALES DE LOS IMPUESTOS EN GUATEMALA
+### REPRESENTACIONES SOCIALES DE LOS IMPUESTOS EN GUATEMALA
+
+DOCTORADO EN CIENCIAS DE LA INVESTIGACIÓN (2021)
 
 
 Para analizar la cultura tributaria, como uno de los elementos propuestos dentro de los aspectos sociales que determina la recaudación, se tomó como enfoque la teoría de las representaciones sociales y conceptos de la Política Fiscal y de cultura tributaria, que permitieron analizar y entender qué es lo que piensa el principal actor de este proceso, el contribuyente, quien sostiene al Estado a través de los impuestos. 
