@@ -1,5 +1,6 @@
 
-[Resumen](https://github.com/EvelynOr/EvelynOr/tree/main/Tesis)
+[Resumen](https://github.com/EvelynOr/EvelynOr/tree/main/Tesis/Resumen)
+
 
 [Métodos y Materiales](https://github.com/EvelynOr/EvelynOr/tree/main/Tesis/Metodos%20y%20Materiales)
 
