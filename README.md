@@ -3,7 +3,7 @@
 
 
 
-📉  Análisis micro y macro     🧾 análisis de datos      📝 interpretacion de estadísticas     📍 formulación de indicadores
+📉  Análisis micro y macro     🧾 análisis de datos          📍 formulación de indicadores
 
 📏 Coordinación y asistencia de proyectos
 
