@@ -25,5 +25,3 @@
 
 
 
-
-![](https://komarev.com/ghpvc/?username=your-github-username%29)
