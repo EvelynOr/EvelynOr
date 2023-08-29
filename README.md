@@ -30,7 +30,7 @@
 
 Proyectos en: 
 
-[Pytho](https://github.com/EvelynOr/Python)
+[Python](https://github.com/EvelynOr/Python)
 
 [SQL](https://github.com/EvelynOr/SQL)
 
