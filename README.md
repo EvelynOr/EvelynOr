@@ -32,7 +32,7 @@ Proyectos en:
 
 [Python](https://github.com/EvelynOr/Python)
 
-[SQL](https://github.com/EvelynOr/SQL)
+[SQL Server](https://github.com/EvelynOr/SQL)
 
 [Recursos](https://github.com/EvelynOr/Publicaciones) utilizados en el proceso de aprendizaje
 
