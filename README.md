@@ -20,7 +20,7 @@
    Conocimiento de:  ✨ PowerBI   |  SQL Server  |   Minitab      🐍 Python  
 
    
-
+Tesis - [Extracto](https://github.com/EvelynOr/EvelynOr/tree/main/Tesis)
 
 
 
