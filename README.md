@@ -15,12 +15,12 @@
 
 🛠️ Competencias laborales 
 
-   Generación de conocimiento = investigación + creatividad + atención a detalles + curiosidad + comunicación escrita y verbal  
+   Generación de conocimiento = investigación + creatividad + atención a detalles + curiosidad + razonamiento + comunicación escrita y verbal  
  
    Conocimiento de:  ✨ PowerBI   |  SQL Server  |   Minitab      🐍 Python  
 
    
- ##### 
+
 
 
 
