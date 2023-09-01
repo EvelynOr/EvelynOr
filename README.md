@@ -29,11 +29,12 @@
 
 [Portfolio](https://github.com/EvelynOr/4.Portafolio)
 
-Proyectos en: 
 
 [Python](https://github.com/EvelynOr/Python)
 
+
 [SQL Server](https://github.com/EvelynOr/SQL)
+
 
 [Recursos](https://github.com/EvelynOr/Publicaciones) utilizados en el proceso de aprendizaje
 
