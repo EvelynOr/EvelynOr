@@ -1,13 +1,4 @@
 
-[Resumen](https://github.com/EvelynOr/EvelynOr/tree/main/Tesis/Resumen)
-
-
-[Métodos y Materiales](https://github.com/EvelynOr/EvelynOr/tree/main/Tesis/Metodos%20y%20Materiales)
-
-[Resultados y Discusion](https://github.com/EvelynOr/EvelynOr/tree/main/Tesis/Resultados%20y%20Discusion)
-
-[Conclusiones](https://github.com/EvelynOr/EvelynOr/tree/main/Tesis/Conclusiones)
-
 
 
 ### REPRESENTACIONES SOCIALES DE LOS IMPUESTOS EN GUATEMALA
