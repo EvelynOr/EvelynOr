@@ -12,7 +12,7 @@
 🧑‍🤝‍🧑 Gestión de recursos humanos basado en competencias
 
 
-#  -
+#  
 
 
 🛠️ Competencias laborales 
@@ -21,6 +21,7 @@
  
    Conocimiento de:  ✨ PowerBI   |  SQL Server  |   Minitab      🐍 Python  
 
+## 
    
 Tesis - [Extracto](https://github.com/EvelynOr/EvelynOr/tree/main/Tesis)
 
