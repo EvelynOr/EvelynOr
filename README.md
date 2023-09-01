@@ -11,7 +11,8 @@
 
 🧑‍🤝‍🧑 Gestión de recursos humanos basado en competencias
 
-### 🍄 ---
+
+# 🍄 ---
 
 
 🛠️ Competencias laborales 
