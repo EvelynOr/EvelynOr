@@ -20,7 +20,7 @@
    Conocimiento de:  ✨ PowerBI   |  SQL Server  |   Minitab      🐍 Python  
 
    
- ##### 💼 https://sites.google.com/view/evelyn-orti
+ ##### 
 
 
 
