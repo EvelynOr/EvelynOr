@@ -22,9 +22,8 @@
    Conocimiento de:  ✨ PowerBI   |  SQL Server  |   Minitab      🐍 Python  
 
    
-Tesis - [Extracto](https://github.com/EvelynOr/EvelynOr/tree/main/Tesis)
 
-#
+
 
 
 # Contenido
@@ -40,3 +39,5 @@ Tesis - [Extracto](https://github.com/EvelynOr/EvelynOr/tree/main/Tesis)
 
 [Recursos](https://github.com/EvelynOr/Publicaciones) utilizados en el proceso de aprendizaje
 
+
+Tesis - [Extracto](https://github.com/EvelynOr/EvelynOr/tree/main/Tesis)
