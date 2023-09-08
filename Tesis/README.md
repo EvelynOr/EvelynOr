@@ -1,4 +1,7 @@
 DOCTORADO EN CIENCIAS DE LA INVESTIGACIÓN (2021)
+![RSTx](https://github.com/EvelynOr/EvelynOr/assets/82233779/4d9c852e-274e-4ffc-8a71-b95646906c3f)
+
+![image](https://github.com/EvelynOr/EvelynOr/assets/82233779/72f36966-5223-4e65-94d1-6e855a3abe1d)
 
 
 # REPRESENTACIONES SOCIALES DE LOS IMPUESTOS EN GUATEMALA
