@@ -4,7 +4,7 @@ DOCTORADO EN CIENCIAS DE LA INVESTIGACIÓN (2021)
 
 #
 
-Para analizar la cultura tributaria, como uno de los elementos propuestos dentro de los aspectos sociales que determina la recaudación, se tomó como enfoque la teoría de las representaciones sociales y conceptos de la Política Fiscal y de cultura tributaria, que permitieron analizar y entender qué es lo que piensa el principal actor de este proceso, el contribuyente, quien sostiene al Estado a través de los impuestos. 
+Para analizar la cultura tributaria, como uno de los elementos propuestos dentro de los aspectos sociales que determina la recaudación, se tomó como enfoque la teoría de las representaciones sociales, conceptos de política fiscal y de cultura tributaria, que permitieron analizar y entender qué es lo que piensa el principal actor de este proceso, el contribuyente, quien sostiene al Estado a través de los impuestos. 
 
 Este enfoque aporta conceptos que permiten obtener la imagen que tienen las personas de los impuestos, a través de un análisis del proceso de formación de esas imágenes, la estructura mental que tienen actualmente, la actitud frente a los impuestos y el conocimiento de la normativa tributaria actual.
 
@@ -76,7 +76,7 @@ La figura muestra los campos de las representaciones sociales que se encontraron
 ![image](https://user-images.githubusercontent.com/82233779/212377340-e4cdf924-0650-4bcc-a06b-59ceee828b6b.png)
 
 
-### Conslusiones
+### Conclusiones
 
 En resumen, el estudio reveló que las representaciones sociales de los impuestos son el resultado de un proceso de construcción sociocognitivo, que las personas a través del tiempo han interiorizado. Los valores de religiosidad, el individualismo y el utilitarismo son el resultado del devenir histórico y expresan lo que las personas creen y la confianza que tienen en el gobierno. Estos elementos podrían explicar el inadecuado pago de impuestos y la resistencia por parte de las personas en la actualidad. Aunque los valores encontrados aplican para la muestra seleccionada, se pueden tomar como una variable proxy de lo que se ha estado gestando en el sistema social. Por lo que teniendo en cuenta estos aspectos y siendo el cumplimiento tributario un aspecto cultural de contenido económico, la variable cultura debe formar parte de la siguiente generación de reformas tributarias. Es evidente que el paradigma de la economía del crimen ya no es suficiente para entender y tratar este fenómeno. Se debe tener un cambio en la gestión del pago de impuestos e incorporar elementos que explican el comportamiento social y el comportamiento individual. Con un análisis puramente economicista, se están dejando estos elementos fuera del modelo, y las percepciones que los sujetos se han formado de los impuestos seguirá afectando el cumplimiento tributario, los niveles de recaudación y la política fiscal, todo esto con implicaciones públicas y generacionales.
 
