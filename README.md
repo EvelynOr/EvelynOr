@@ -12,6 +12,7 @@
 🧑‍🤝‍🧑 Gestión de recursos humanos basado en competencias
 
 📝 Investigación 
+Tesis - [Extracto](https://github.com/EvelynOr/EvelynOr/tree/main/Tesis)
 
 ### --
 
@@ -27,7 +28,6 @@
 
 
 
-[Recursos](https://github.com/EvelynOr/Publicaciones) utilizados en el proceso de aprendizaje
 
 
-Tesis - [Extracto](https://github.com/EvelynOr/EvelynOr/tree/main/Tesis)
+
