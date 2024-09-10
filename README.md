@@ -22,14 +22,9 @@
 
    
 
-
-
-
 # Contenido
 
 [Portfolio](https://github.com/EvelynOr/4.Portafolio)
-
-[SQL Server](https://github.com/EvelynOr/SQL)
 
 
 [Recursos](https://github.com/EvelynOr/Publicaciones) utilizados en el proceso de aprendizaje
