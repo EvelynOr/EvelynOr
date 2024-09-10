@@ -25,12 +25,3 @@ Recursos para investigadores () #pronto 🎊 🌟
  
    Conocimiento de:  ✨ PowerBI   |  SQL Server  |   Minitab      🐍 Python  →    [Portfolio](https://github.com/EvelynOr/4.Portafolio)
 
-
-# Contenido
-
-
-
-
-
-
-
