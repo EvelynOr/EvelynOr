@@ -20,11 +20,12 @@
  
    Conocimiento de:  ✨ PowerBI   |  SQL Server  |   Minitab      🐍 Python  
 
-   
+   [Portfolio](https://github.com/EvelynOr/4.Portafolio)
+
 
 # Contenido
 
-[Portfolio](https://github.com/EvelynOr/4.Portafolio)
+
 
 
 [Recursos](https://github.com/EvelynOr/Publicaciones) utilizados en el proceso de aprendizaje
