@@ -17,6 +17,8 @@ Tesis  [Extracto](https://github.com/EvelynOr/EvelynOr/tree/main/Tesis)
 
 Recursos para investigadores () #pronto 🎊 🌟
 
+Directo: @EvelynORT
+
 ### --
 
 🛠️ Competencias laborales 
@@ -25,4 +27,4 @@ Recursos para investigadores () #pronto 🎊 🌟
  
    Conocimiento de:  ✨ PowerBI   |  SQL Server  |   Minitab      🐍 Python  →    [Portfolio](https://github.com/EvelynOr/4.Portafolio)
    
-   Directo: @EvelynORT
+ 
