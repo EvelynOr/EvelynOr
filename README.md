@@ -24,4 +24,5 @@ Recursos para investigadores () #pronto 🎊 🌟
    Generación de conocimiento = investigación + creatividad + atención a detalles + curiosidad + razonamiento + comunicación escrita y verbal  
  
    Conocimiento de:  ✨ PowerBI   |  SQL Server  |   Minitab      🐍 Python  →    [Portfolio](https://github.com/EvelynOr/4.Portafolio)
+   
    Directo: @EvelynORT
