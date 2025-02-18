@@ -15,7 +15,7 @@
 
 Tesis  [Extracto](https://github.com/EvelynOr/EvelynOr/tree/main/Tesis)
 
-Recursos para investigadores () #pronto 🎊 🌟
+Recursos para investigadores [Beta](https://sites.google.com/view/ie-ad-beta?usp=sharing) 🎊 🌟
 
 Directo: @EvelynORT
 
