@@ -15,7 +15,7 @@
 
 Tesis  [Extracto](https://github.com/EvelynOr/EvelynOr/tree/main/Tesis)
 
-Recursos para investigadores [Beta](https://sites.google.com/view/ie-ad-beta?usp=sharing) 🎊 🌟
+Recursos para principiantes en el análisis de datos / investigadores [Beta](https://sites.google.com/view/ie-ad-beta?usp=sharing) 🎊 🌟
 
 Directo: @EvelynORT
 
